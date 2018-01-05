@@ -9,3 +9,8 @@
 # Oh-My-Scan
 
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+# Solarized Dark Theme
+
+1. Copy `solarized.dark` file to home directory
+1. `cat solarized.dark >> .zshrc`
