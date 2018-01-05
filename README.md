@@ -14,3 +14,9 @@
 
 1. Copy `solarized.dark` file to home directory
 1. `cat solarized.dark >> .zshrc`
+
+# Powerlevel9k
+
+1. Add this to top of .zshrc `export TERM="xterm-256color"`
+1. `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k`
+1. Edit your .zshrc `ZSH_THEME="powerlevel9k/powerlevel9k"`
